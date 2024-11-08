@@ -9,7 +9,7 @@
 5. В проекте выполнено тестирование всех функций
 
 ## Установка проекта
-Клонирование проекта из [GitHub](https://github.com/yolarus/course_work_1) по HTTPS-токену или SSH-ключу
+Клонирование проекта из [GitHub](https://github.com/Ganza-Vita/course.git) по HTTPS-токену или SSH-ключу
 
 ## Запуск
 ~ python3 main.py
